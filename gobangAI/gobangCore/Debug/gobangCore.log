@@ -1,0 +1,26 @@
+﻿  stdafx.cpp
+  step.cpp
+c:\users\ownsky\desktop\gobangai\gobangcore\step.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\ownsky\desktop\gobangai\gobangcore\step.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  gobangCore.cpp
+  core.cpp
+c:\users\ownsky\desktop\gobangai\gobangcore\core.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\ownsky\desktop\gobangai\gobangcore\step.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\ownsky\desktop\gobangai\gobangcore\analyse.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\ownsky\desktop\gobangai\gobangcore\core.cpp(45): warning C4805: “==”: 在操作中将类型“bool”与类型“int”混合不安全
+  analyse.cpp
+c:\users\ownsky\desktop\gobangai\gobangcore\analyse.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\ownsky\desktop\gobangai\gobangcore\analyse.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\ownsky\desktop\gobangai\gobangcore\analyse.cpp(262): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\ownsky\desktop\gobangai\gobangcore\analyse.cpp(263): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\ownsky\desktop\gobangai\gobangcore\analyse.cpp(267): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\ownsky\desktop\gobangai\gobangcore\analyse.cpp(268): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\ownsky\desktop\gobangai\gobangcore\analyse.cpp(272): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\ownsky\desktop\gobangai\gobangcore\analyse.cpp(273): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\ownsky\desktop\gobangai\gobangcore\analyse.cpp(277): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\ownsky\desktop\gobangai\gobangcore\analyse.cpp(278): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  dllmain.cpp
+    正在创建库 C:\Users\Ownsky\Desktop\gobangAI\gobangAI\bin\Debug\gobangCore.lib 和对象 C:\Users\Ownsky\Desktop\gobangAI\gobangAI\bin\Debug\gobangCore.exp
+  gobangCore.vcxproj -> C:\Users\Ownsky\Desktop\gobangAI\gobangAI\bin\Debug\gobangCore.dll
+  gobangCore.vcxproj -> C:\Users\Ownsky\Desktop\gobangAI\gobangAI\bin\Debug\gobangCore.pdb (Full PDB)

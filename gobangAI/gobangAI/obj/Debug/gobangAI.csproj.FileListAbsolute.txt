@@ -1,0 +1,10 @@
+C:\Users\Ownsky\Desktop\gobangAI\gobangAI\bin\Debug\gobangAI.exe.config
+C:\Users\Ownsky\Desktop\gobangAI\gobangAI\bin\Debug\gobangAI.exe
+C:\Users\Ownsky\Desktop\gobangAI\gobangAI\bin\Debug\gobangAI.pdb
+C:\Users\Ownsky\Desktop\gobangAI\gobangAI\obj\Debug\gobangAI.Form1.resources
+C:\Users\Ownsky\Desktop\gobangAI\gobangAI\obj\Debug\gobangAI.Properties.Resources.resources
+C:\Users\Ownsky\Desktop\gobangAI\gobangAI\obj\Debug\gobangAI.csproj.GenerateResource.Cache
+C:\Users\Ownsky\Desktop\gobangAI\gobangAI\obj\Debug\gobangAI.exe
+C:\Users\Ownsky\Desktop\gobangAI\gobangAI\obj\Debug\gobangAI.pdb
+C:\Users\Ownsky\Desktop\gobangAI\gobangAI\obj\Debug\gobangAI.confirmOrder.resources
+C:\Users\Ownsky\Desktop\gobangAI\gobangAI\obj\Debug\gobangAI.win.resources

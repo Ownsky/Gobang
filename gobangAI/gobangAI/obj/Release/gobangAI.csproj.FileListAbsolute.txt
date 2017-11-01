@@ -1,0 +1,11 @@
+C:\Users\Ownsky\Desktop\gobangAI\gobangAI\bin\Release\gobangAI.exe.config
+C:\Users\Ownsky\Desktop\gobangAI\gobangAI\bin\Release\gobangAI.exe
+C:\Users\Ownsky\Desktop\gobangAI\gobangAI\bin\Release\gobangAI.pdb
+C:\Users\Ownsky\Desktop\gobangAI\gobangAI\obj\Release\gobangAI.confirmOrder.resources
+C:\Users\Ownsky\Desktop\gobangAI\gobangAI\obj\Release\gobangAI.Form1.resources
+C:\Users\Ownsky\Desktop\gobangAI\gobangAI\obj\Release\gobangAI.Properties.Resources.resources
+C:\Users\Ownsky\Desktop\gobangAI\gobangAI\obj\Release\gobangAI.win.resources
+C:\Users\Ownsky\Desktop\gobangAI\gobangAI\obj\Release\gobangAI.csproj.GenerateResource.Cache
+C:\Users\Ownsky\Desktop\gobangAI\gobangAI\obj\Release\gobangAI.exe
+C:\Users\Ownsky\Desktop\gobangAI\gobangAI\obj\Release\gobangAI.pdb
+C:\Users\Ownsky\Desktop\gobangAI\gobangAI\obj\Release\gobangAI.csprojResolveAssemblyReference.cache
